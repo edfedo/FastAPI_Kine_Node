@@ -88,11 +88,24 @@ pip install "fastapi[standard]"
 pip install "uvicorn[standard]"
 ```
 
-**9-** ahora abrir vscode --> Abrir la carpeta completa "FastAPI"
+**9-** Instalamos nodejs desde https://nodejs.org/en
 
-**10-** seleccionar el archivo "main.py" y abrir la consola "Terminal"
+**9-** desde nuestra ruta en la consola, en mi caso:
 
-**11-** Levantar el servidor:
+(fastapi-env) C:\Users\lenovo\Downloads\GIT_Politecnico\FastAPI_Kine_Node>
+
+Ejecutamos los siguientes comandos en este orden:
+
+cd frontend
+cd frontend
+npm install
+npm start
+
+**10-** ahora abrir vscode --> Abrir la carpeta completa "FastAPI"
+
+**11-** seleccionar el archivo "main.py" y abrir la consola "Terminal"
+
+**12-** Levantar el servidor:
 
 Ejecutar el siguiente comando: 
 
@@ -100,13 +113,13 @@ Ejecutar el siguiente comando:
 uvicorn main:app --reload
 ```
 
-**12-** Por defecto tendria que cargar el servicio en la direccion IP:
+**13-** Por defecto tendria que cargar el servicio en la direccion IP:
 
 ```bash
 http://127.0.0.1:8000
 ```
 
-**13-** Poner la direccion IP junto con el Numero de puerto en el navegador, esta ruta es un localhost,
+**14-** Poner la direccion IP junto con el Numero de puerto en el navegador, esta ruta es un localhost,
 por ende tambien es lo mismo poner localhost:8000.
 Con esto ya tendria que abrir la Interfaz del Sistema Experto
 
