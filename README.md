@@ -1,4 +1,4 @@
-![Logo](https://github.com/edfedo/FastAPI/blob/main/Documentos/Front_b.jpg)
+![Logo](https://github.com/edfedo/FastAPI_Kine_Node/blob/main/Documentos/Front_b.jpg)
 
 ------------
 [-] **Degree:** Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
@@ -137,7 +137,7 @@ uvicorn main:app --reload
 por ende tambien es lo mismo poner http://localhost:3000/
 Con esto ya tendria que abrir la Interfaz del Sistema Experto
 
-![Logo](https://github.com/edfedo/FastAPI/blob/main/Documentos/screen_ejemplo_b.png)
+![Logo](https://github.com/edfedo/FastAPI_Kine_Node/blob/main/Documentos/screen_ejemplo_b.png)
 
 -------------------------
 -------------------------
