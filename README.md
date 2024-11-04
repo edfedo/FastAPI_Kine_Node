@@ -160,7 +160,6 @@ Project Organization
     ├── Instalacion_fastapi.txt     # Instrucciones para la instalación de FastAPI
     ├── Pipfile                     # Archivo de dependencias para gestionar paquetes del proyecto
     ├── Pipfile.lock                # Archivo de bloqueo de versiones de dependencias
-    ├── Problema_de_Conneccion.json # Configuración o información de problemas de conexión en formato JSON
     ├── README.md                   # Documentación general del proyecto, instrucciones de uso y guía de configuración
     ├── acciones copy.py            # Copia de respaldo del archivo `acciones.py`
     ├── acciones.py                 # Script que define las acciones del sistema experto o lógica de negocio
