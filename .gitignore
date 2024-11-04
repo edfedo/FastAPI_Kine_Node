@@ -163,3 +163,5 @@ dmypy.json
 ### vscode ###
 .vscode/
 *.code-workspace
+fastapi-env/pyvenv.cfg
+fastapi-env/pyvenv.cfg
