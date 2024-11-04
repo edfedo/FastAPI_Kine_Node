@@ -130,11 +130,11 @@ uvicorn main:app --reload
 **13-** Por defecto tendria que cargar el servicio en la direccion IP:
 
 ```bash
-http://127.0.0.1:8000
+ http://localhost:3000/
 ```
 
 **14-** Poner la direccion IP junto con el Numero de puerto en el navegador, esta ruta es un localhost,
-por ende tambien es lo mismo poner localhost:8000.
+por ende tambien es lo mismo poner http://localhost:3000/
 Con esto ya tendria que abrir la Interfaz del Sistema Experto
 
 ![Logo](https://github.com/edfedo/FastAPI/blob/main/Documentos/screen_ejemplo.png)
