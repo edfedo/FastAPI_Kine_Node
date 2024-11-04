@@ -102,7 +102,7 @@ cd frontend
 
 npm install
 
-npm start
+npm start (se nos abre el chrome en la ruta http://localhost:3000/)
 
 **10-** ahora abrir vscode --> Abrir la carpeta completa "FastAPI"
 
