@@ -137,7 +137,7 @@ uvicorn main:app --reload
 por ende tambien es lo mismo poner http://localhost:3000/
 Con esto ya tendria que abrir la Interfaz del Sistema Experto
 
-![Logo](https://github.com/edfedo/FastAPI/blob/main/Documentos/screen_ejemplo.png)
+![Logo](https://github.com/edfedo/FastAPI/blob/main/Documentos/screen_ejemplo_b.png)
 
 -------------------------
 -------------------------
