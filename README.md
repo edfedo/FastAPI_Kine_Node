@@ -50,6 +50,12 @@ este sistema, los profesionales médicos podrán obtener diagnósticos prelimina
 síntomas que reporten los pacientes, facilitando el acceso a una atención más precisa y rápida, 
 especialmente en áreas remotas donde los especialistas no están siempre disponibles.
 
+<p align="left">
+    <a href="https://github.com/edfedo/FastAPI_Kine_Node/blob/main/Documentos">
+    <img src="https://img.shields.io/badge/Link_Project_Files-277D24?style=for-the-badge&logo=github&logoColor=white" alt="Project" />
+  </a>
+</p>
+
 ------------
 
 [-] **Instalación del Servicio de FastApi para poder ejecutar el Sistema Experto**
