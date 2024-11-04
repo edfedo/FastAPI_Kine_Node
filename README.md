@@ -58,7 +58,7 @@ especialmente en áreas remotas donde los especialistas no están siempre dispon
 
 **2-** ir hastala direccion de descarga:
 
-ej: C:\Users\lenovo\Downloads\FastAPI>
+ej: C:\Users\lenovo\Downloads\FastAPI_Kine_Node>
 
 **4-** ejecutamos el comando para windows: 
 
@@ -74,7 +74,7 @@ fastapi-env\Scripts\activate
 
 **6-** si todo sale bien, en el promp tendras algo asi: 
 
-(fastapi-env) C:\Users\lenovo\Downloads\FastAPI>
+(fastapi-env) C:\Users\lenovo\Downloads\FastAPI_Kine_Node>
 
 **7-** ahora hay q hacer las instalaciones para q funcione fastapi
 
@@ -115,7 +115,7 @@ npm start
 se nos abre el chrome en la ruta http://localhost:3000/ - pero no mostrara la base de conocimiento sin antes
 realizar los pasos del 10 en adelante! 
 
-**10-** ahora abrir vscode --> Abrir la carpeta completa "FastAPI"
+**10-** ahora abrir vscode --> Abrir la carpeta completa "FastAPI_Kine_Node"
 
 **11-** seleccionar el archivo "main.py" y abrir la consola "Terminal"
 
