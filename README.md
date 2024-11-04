@@ -97,8 +97,11 @@ pip install "uvicorn[standard]"
 Ejecutamos los siguientes comandos en este orden:
 
 cd frontend
+
 cd frontend
+
 npm install
+
 npm start
 
 **10-** ahora abrir vscode --> Abrir la carpeta completa "FastAPI"
