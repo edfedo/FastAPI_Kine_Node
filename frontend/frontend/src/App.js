@@ -6,7 +6,7 @@ import './App.css'; // Importar App.css
 function App() {
   return (
     <div className="App">
-      <h1>Sistema Experto "Cultivos de Plantas"</h1>
+      <h1>Chatbot Lesiones de Hombro V2024.0.1</h1>
       <Chatbot />
     </div>
   );
