@@ -147,32 +147,31 @@ Project Organization
 
 ------------
     /
-    ├── Documentos/                        <- Documentación y archivos de referencia
-    │   ├── README.md                      <- Descripción general del proyecto
-    │   ├── Instalacion_fastapi.txt        <- Instrucciones de instalación
-    │   ├── postman.txt                    <- Ejemplos de uso en Postman
-    │   └── FastAPI_Final_Federico_DOliveira_V3.zip  <- Archivo comprimido con proyecto final
-    ├── experto_general/                   <- Código y lógica principal del sistema experto
-    │   ├── acciones.py                    <- Archivo principal de acciones
-    │   ├── acciones copy.py               <- Copia de respaldo de acciones
-    │   ├── main.py                        <- Archivo principal del sistema experto
-    │   ├── main_BK_MAIN_OK_FUNCA.py       <- Versión funcional del sistema
-    │   ├── main_BK_ORIGINAL_FASTapi.py    <- Versión original para FASTAPI
-    │   ├── main_BK_SE_ORIGINAL.py         <- Otra versión del sistema
-    │   └── cli.py                         <- Interfaz de línea de comandos
-    ├── fastapi-env/                       <- Entorno y dependencias de FastAPI
-    │   ├── Pipfile                        <- Archivo de dependencias (Pipenv)
-    │   └── Pipfile.lock                   <- Archivo de bloqueo de dependencias
-    ├── interfaz/                          <- Archivos de la interfaz y elementos visuales
-    │   └── static/                        <- Archivos estáticos para la interfaz
-    ├── _pycache_/                         <- Archivos temporales de caché
-    ├── data/                              <- Base de conocimiento y archivos de datos
-    │   ├── Base_kine_v1.json              <- Versión 1 de la base de datos
-    │   ├── Base_kine_v2.json              <- Versión 2 de la base de datos
-    │   ├── base_conocimiento.json         <- Base de conocimiento principal
-    │   ├── example.json                   <- Archivo de ejemplo
-    │   └── medios_cultivo_BK_ORIGINAL.json <- Medios de cultivo (backup original)
-    └── .gitignore                         <- Configuración de archivos a ignorar en Git
+    ├── Documentos/                 # Documentación y archivos relacionados con el proyecto
+    ├── experto_general/            # Contiene archivos y scripts relacionados con el sistema experto general
+    ├── fastapi-env/                # Entorno de configuración para FastAPI, incluyendo dependencias y configuraciones
+    ├── frontend/                   # Directorio principal para el frontend
+    │   └── frontend/               # Archivos del frontend, posiblemente código HTML/CSS/JavaScript o framework frontend
+    ├── interfaz/                   # Contiene la interfaz de usuario o scripts de interfaz para interactuar con el sistema
+    ├── .gitignore                  # Archivos y directorios ignorados por Git
+    ├── Base_kine_v1.json           # Versión 1 de la base de datos o configuración de conocimientos en formato JSON
+    ├── Base_kine_v2.json           # Versión 2 de la base de datos o configuración de conocimientos en formato JSON
+    ├── FastApi_Kine_Node.zip       # Archivo comprimido que contiene la configuración o implementación de FastAPI para un nodo específico
+    ├── Instalacion_fastapi.txt     # Instrucciones para la instalación de FastAPI
+    ├── Pipfile                     # Archivo de dependencias para gestionar paquetes del proyecto
+    ├── Pipfile.lock                # Archivo de bloqueo de versiones de dependencias
+    ├── Problema_de_Conneccion.json # Configuración o información de problemas de conexión en formato JSON
+    ├── README.md                   # Documentación general del proyecto, instrucciones de uso y guía de configuración
+    ├── acciones copy.py            # Copia de respaldo del archivo `acciones.py`
+    ├── acciones.py                 # Script que define las acciones del sistema experto o lógica de negocio
+    ├── base_conocimiento.json      # Archivo JSON que contiene la base de conocimiento para el sistema experto
+    ├── cli.py                      # Interfaz de línea de comandos para interactuar con el sistema
+    ├── main.py                     # Script principal del proyecto para ejecutar el sistema
+    ├── main_BK_MAIN_OK_FUNCA.py    # Versión funcional del archivo `main` con ciertas modificaciones
+    ├── main_BK_ORIGINAL_FASTapi.py # Versión original de `main` con configuraciones específicas de FastAPI
+    ├── main_BK_SE_ORIGINAL.py      # Otra versión del archivo `main`, posiblemente con configuraciones originales del sistema experto
+    ├── medios_cultivo.json         # Información o configuraciones relacionadas con los medios de cultivo en formato JSON
+    └── postman.txt                 # Archivo con datos o colecciones para pruebas en Postman
 
 ------------
 -------------------------
