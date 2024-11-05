@@ -62,7 +62,7 @@ especialmente en áreas remotas donde los especialistas no están siempre dispon
 
 **1-** ejecutar simbolo de sistemas como administrador
 
-**2-** ir hastala direccion de descarga:
+**2-** ir hasta la direccion de descarga:
 
 ej: C:\Users\lenovo\Downloads\FastAPI_Kine_Node>
 
