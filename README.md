@@ -72,7 +72,7 @@ ej: C:\Users\lenovo\Downloads\FastAPI_Kine_Node>
 python -m venv fastapi-env
 ```
 
-En caso que de, dentro de la terminar de windows salga un msj de error que no se reconoce el comando cmlet python
+En caso que de, dentro de la terminal de windows salga un msj de error que no se reconoce el comando cmlet python
 instalar el paquete Git desde https://git-scm.com/downloads/win
 
 **5-** Ya creado el entorno, hay q activarlo: 
