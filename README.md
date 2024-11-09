@@ -130,7 +130,11 @@ realizar los pasos del 10 en adelante!
 
 **12-** Levantar el servidor:
 
-Ejecutar el siguiente comando: 
+Ejecutar los siguientes comandos: 
+
+```bash
+fastapi-env\Scripts\activate
+```
 
 ```bash
 uvicorn main:app --reload
