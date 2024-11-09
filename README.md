@@ -142,7 +142,7 @@ uvicorn main:app --reload
 
 **13-** Por defecto tendria que cargar el servicio en la direccion IP:
 
-(En caso de tener el navegador abierto en la direccion http://localhost:3000 del paso numero 9, el mismo no tendra la base de conocimiento cargada, por ende hacer un F5 o abrir una nueva pestana con la ruta y puerto del localhost)
+(En caso de tener el navegador abierto en la direccion http://localhost:3000 del paso numero 9, el mismo no tendra la base de conocimiento cargada, por ende hacer un F5 o abrir una nueva pestaña con la ruta y puerto del localhost)
 
 
 ```bash
