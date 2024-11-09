@@ -62,7 +62,7 @@ especialmente en áreas remotas donde los especialistas no están siempre dispon
 
 **1-** ejecutar simbolo de sistemas como administrador
 
-**2-** ir hasta la direccion de descarga:
+**2-** ir hasta la direccion de descarga (ya tendriamos que tener descargo el repo desde git):
 
 ej: C:\Users\lenovo\Downloads\FastAPI_Kine_Node>
 
