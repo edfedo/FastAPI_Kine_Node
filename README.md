@@ -76,9 +76,11 @@ Tenemos que tener instalados en el equipo los siguientes software:
 
 --> En windows dentro de la terminal de dos, nos movemos de carpeta en carpeta con:
 
-cd nombre_carpeta (para entrar a una carpeta)
-cd .. (para salir de una carpeta)
-dir (para ver el directorio)
+[-] cd nombre_carpeta (para entrar a una carpeta)
+
+[-] cd .. (para salir de una carpeta)
+
+[-] dir (para ver el directorio)
 
 ej: C:\Users\lenovo\Downloads\FastAPI_Kine_Node> 
 
