@@ -60,11 +60,17 @@ especialmente en áreas remotas donde los especialistas no están siempre dispon
 
 [-] **Instalación del Servicio de FastApi para poder ejecutar el Sistema Experto**
 
-**1-** ejecutar simbolo de sistemas como administrador
+**1-** ejecutar simbolo de sistemas como administrador (Inicio Windows --> Barra buscar --> cmd (click derecho ejecutar como admin))
 
 **2-** ir hasta la direccion de descarga (ya tendriamos que tener descargo el repo desde git):
 
-ej: C:\Users\lenovo\Downloads\FastAPI_Kine_Node>
+--> En windows dentro de la terminal de dos, nos movemos de carpeta en carpeta con:
+
+cd nombre_carpeta (para entrar a una carpeta)
+cd .. (para salir de una carpeta)
+dir (para ver el directorio)
+
+ej: C:\Users\lenovo\Downloads\FastAPI_Kine_Node> 
 
 **4-** ejecutamos el comando para windows: 
 
