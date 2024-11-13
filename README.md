@@ -63,7 +63,9 @@ especialmente en áreas remotas donde los especialistas no están siempre dispon
 Tenemos que tener instalados en el equipo los siguientes software:
 
 GitDesktop: https://desktop.github.com/download/
+
 VSCode: https://code.visualstudio.com/
+
 Git for Windows: https://git-scm.com/downloads/win
 
 **1-** Descargamos el repo desde GitDesktop
