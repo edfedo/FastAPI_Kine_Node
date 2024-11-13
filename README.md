@@ -60,9 +60,17 @@ especialmente en áreas remotas donde los especialistas no están siempre dispon
 
 [-] **Instalación del Servicio de FastApi para poder ejecutar el Sistema Experto**
 
-**1-** ejecutar simbolo de sistemas como administrador (Inicio Windows --> Barra buscar --> cmd (click derecho ejecutar como admin))
+Tenemos que tener instalados en el equipo los siguientes software:
 
-**2-** ir hasta la direccion de descarga (ya tendriamos que tener descargo el repo desde git):
+GitDesktop: https://desktop.github.com/download/
+VSCode: https://code.visualstudio.com/
+Git for Windows: https://git-scm.com/downloads/win
+
+**1-** Descargamos el repo desde GitDesktop
+
+**2-** ejecutar simbolo de sistemas como administrador (Inicio Windows --> Barra buscar --> cmd (click derecho ejecutar como admin))
+
+**3-** ir hasta la direccion de descarga (ya tendriamos que tener descargo el repo desde git):
 
 --> En windows dentro de la terminal de dos, nos movemos de carpeta en carpeta con:
 
