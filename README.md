@@ -41,7 +41,7 @@
 </p>
 
 
-[-] Link VLC: https://www.videolan.org/vlc/index.es.html
+[-] Link descarga VLC: https://www.videolan.org/vlc/index.es.html
 
 ------------
 
