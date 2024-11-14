@@ -127,9 +127,13 @@ Ejecutamos los siguientes comandos en este orden:
 cd frontend
 ```
 
+Y de nuevo
+
 ```bash
 cd frontend
 ```
+
+Luego
 
 ```bash
 npm install
