@@ -36,7 +36,7 @@
 
 <p align="left">
     <a href="https://drive.google.com/file/d/1LWG1GBc0609j5hLQTPDrPjLEc-VO8rch/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Link_Project_Video_Drive_Google-588D30?style=for-the-badge&logo=github&logoColor=white" alt="Project" />
+    <img src="https://img.shields.io/badge/Link_Project_Video_Drive_Google-FFD43B??style=for-the-badge&logo=github&logoColor=white" alt="Project" />
   </a>
 </p>
 
