@@ -24,13 +24,24 @@
 
 [-] **Project video:**
 
-- Por favor usar vlc para ver el video, o actualizar codecs en caso de no poder verlo o escuchar el sonido (Sigue el link y click View raw, esto descargara el video)
+- Por favor usar VLC para ver el video, o actualizar codecs en caso de no poder verlo o escuchar el sonido (Sigue el link y click View raw, esto descargara el video)
 
 <p align="left">
     <a href="https://github.com/edfedo/FastAPI_Kine_Node/blob/main/Documentos/Entrega_Video_TP_simplescreenrecorder-2024-11-04_15.36.45.mp4">
     <img src="https://img.shields.io/badge/Link_Project_Video-277D24?style=for-the-badge&logo=github&logoColor=white" alt="Project" />
   </a>
 </p>
+
+- En caso de no tener VLC o no poder actualizar los codecs el video se puede ver directo desde el siguiente drive
+
+<p align="left">
+    <a href="https://drive.google.com/file/d/1LWG1GBc0609j5hLQTPDrPjLEc-VO8rch/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Link_Project_Video_Drive_Google-877D24?style=for-the-badge&logo=github&logoColor=white" alt="Project" />
+  </a>
+</p>
+
+
+[-] Link descarga VLC: https://www.videolan.org/vlc/index.es.html
 
 ------------
 
@@ -62,11 +73,11 @@ especialmente en áreas remotas donde los especialistas no están siempre dispon
 
 Tenemos que tener instalados en el equipo los siguientes software:
 
-GitDesktop: https://desktop.github.com/download/
+[-] GitDesktop: https://desktop.github.com/download/
 
-VSCode: https://code.visualstudio.com/
+[-] VSCode: https://code.visualstudio.com/
 
-Git for Windows: https://git-scm.com/downloads/win
+[-] Git for Windows: https://git-scm.com/downloads/win
 
 **1-** Descargamos el repo desde GitDesktop
 
@@ -76,9 +87,11 @@ Git for Windows: https://git-scm.com/downloads/win
 
 --> En windows dentro de la terminal de dos, nos movemos de carpeta en carpeta con:
 
-cd nombre_carpeta (para entrar a una carpeta)
-cd .. (para salir de una carpeta)
-dir (para ver el directorio)
+| Comando       | Description      |
+| ------------- | ------------- |
+| cd nombre_carpeta | para entrar a una carpeta |
+| cd .. | para salir de una carpeta |
+| dir | para ver el directorio |
 
 ej: C:\Users\lenovo\Downloads\FastAPI_Kine_Node> 
 
@@ -125,9 +138,13 @@ Ejecutamos los siguientes comandos en este orden:
 cd frontend
 ```
 
+Y de nuevo
+
 ```bash
 cd frontend
 ```
+
+Luego
 
 ```bash
 npm install
@@ -137,8 +154,7 @@ npm install
 npm start
 ```
 
-se nos abre el chrome en la ruta http://localhost:3000/ - pero no mostrara la base de conocimiento sin antes
-realizar los pasos del 10 en adelante! 
+se nos abre el chrome o el navegador que tengamos por defecto en la ruta http://localhost:3000/ - pero no mostrara la base de conocimiento sin antes realizar los pasos del 10 en adelante! 
 
 **10-** ahora abrir vscode --> Abrir la carpeta completa "FastAPI_Kine_Node"
 
