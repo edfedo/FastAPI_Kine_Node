@@ -43,7 +43,7 @@
 
 [-] Link descarga VLC: https://www.videolan.org/vlc/index.es.html
 
-[-] Se adjunta link de descarga de los codecs para windows (ruta interna dentro del mismo Git - Sigue el link y click View raw, esto descargara los codecs en formato zip, descomprimir e instalar)
+[-] Link descarga Codecs: Se adjunta link de descarga de Codecs para Windows (ruta interna dentro del mismo Git - Sigue el link y click View raw, esto descargara los Codecs en formato zip, descomprimir e instalar)
 
 <p align="left">
     <a href="https://github.com/edfedo/FastAPI_Kine_Node/blob/main/Documentos/k-lite-codec-pack-full-12-9-0.zip">
